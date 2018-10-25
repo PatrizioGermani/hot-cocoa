@@ -2,6 +2,7 @@
 #include<stdlib.h>
 #include<time.h>
 #include"funziona.h"
+//ce la faremo?
 
 //typedef struct mazzo_di_carte {
 //	int numero;
